@@ -1,4 +1,4 @@
-# APOLLO – Modeling (CAD/FEA)
+# APOLLO – Modeling (CAD/CARTIA)
 
 ## 구조
 - cad/       : CAD 원본(SLDPRT, STEP 등)
